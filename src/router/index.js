@@ -14,42 +14,42 @@ const router = createRouter({
     {
       path: '/login',
       name: 'login',
-      component: LoginView
+      component: () => import('../views/LoginView.vue')
     },
     {
       path: '/',
       name: 'home',
-      component: HomeView
+      component: () => import('../views/HomeView.vue')
     },
     {
       path: '/profile',
       name: 'profile',
-      component: ProfileView
+      component: () => import('../views/ProfileView.vue')
     },
     {
       path: '/company',
       name: 'company',
-      component: CompanyView
+      component: () => import('../views/CompanyView.vue')
     },
     {
       path: '/setup',
       name: 'setup',
-      component: SetupView
+      component: () => import('../views/SetupView.vue')
     },
     {
       path: '/tasks',
       name: 'tasks',
-      component: TasksView
+      component: () => import('../views/TasksView.vue')
     },
     {
       path: '/admin',
       name: 'admin',
-      component: AdminView
+      component: () => import('../views/AdminView.vue')
     },
     {
       path: '/notfound',
       name: 'notfound',
-      component: NotFoundView
+      component: () => import('../views/NotFoundView.vue')
     },
   ]
 })
