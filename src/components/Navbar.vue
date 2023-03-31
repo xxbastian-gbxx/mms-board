@@ -4,48 +4,16 @@
 import { RouterLink, RouterView } from 'vue-router'
 </script>
 
-<script>
-export default {
-    data: function () {
-        return {
-            isActive: false,
-            isNotActive: true
-        }
-    }
-}
-</script>
-
 <template>
-    <header>
-        <div class="menu-wrapper">
-            <div class="fries-button menu-trigger">
-                <label for="fries">
-                    <input type="checkbox" id="fries">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </label>
+    <div class="bg-light-background dark:bg-dark-background">
+        <div class="bg-light-background dark:bg-dark-background w-[35%]">
+            <h2>
+
+            </h2>
+            <div>
+                <img src="" alt="">
+                <label for=""></label>
             </div>
         </div>
-    </header>
+    </div>
 </template>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- <div class="bento" :class="{active: isActive},{is_not_active: isNotActive}" @click="isActive = !isActive; isNotActive = !isNotActive">
-                
-</div> -->

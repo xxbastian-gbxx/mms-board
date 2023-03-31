@@ -13,5 +13,6 @@ import Navbar from './components/Navbar.vue'
 <style>
 body{
     height: 150vh;
+    margin: 0;
 }
 </style>
