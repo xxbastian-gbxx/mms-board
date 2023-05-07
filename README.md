@@ -5,7 +5,7 @@
 <br><br>
 
 ## How did the project start?
-> *From February 20 to 24, 2023 there was a virtual [IT-Camp](https://itcamp-dd.de/) for the region of Dresden in Saxony, Germany. The task was to build a onboarding app for new employees of the company [MMS](https://www.t-systems-mms.com/).*
+> *From February 20 to 24, 2023 there was a virtual [IT-Camp](https://itcamp-dd.de/) for the region of Dresden in Saxony, Germany. The task was to build an onboarding app for new employees of the company [MMS](https://www.t-systems-mms.com/).*
 
 <br>
 
