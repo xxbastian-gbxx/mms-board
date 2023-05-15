@@ -1,5 +1,5 @@
 <template>
-    <div class="home absolute">
-        test
+    <div class="home ml-[80px]">
+        home
     </div>
 </template>
