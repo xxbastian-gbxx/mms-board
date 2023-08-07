@@ -16,8 +16,3 @@
 
 ## Why did I started the project?
 > *The Team of the IT-Camp couldn't finish the project, because there was not enough time to get this thing to work. This project got my attention and I thought: Why don't You finish this?*
-
-<br>
-
-## Was something particularly difficult
-> *The adage: 'Said and Done' doesn't fit right. Of course errors occured and it cost me tears, a lot of hours of Google search and many many debugging sessions. But after <'hier tage eintragen'> days, I finally can aver: 'Said and Done'*
