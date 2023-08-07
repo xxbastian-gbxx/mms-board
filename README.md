@@ -10,9 +10,9 @@
 <br>
 
 ## What is the MMS?
-> *The MMS is a subsidiary company of T-Systems also known as Telekom.<br>     T-Systems MMS supports large corporations and medium-sized companies in their digital transformation. With around 2,200 employees at nine locations we offer dynamic web and application management and ensure the highest software quality, accessibility and IT security with an accredited test center. Our versatility sets us apart from other service providers in our sector. Thanks to our employees’ skills, strong company structures and mature partnerships, we are broad-based and can operate using complex processes. And our success with customers shows that our approach is the right one: successful projects and satisfied customers are the standards by which we measure our expertise and market position. After all, we want to lead the way in designing and reshaping digital worlds.*
+> *The MMS is a subsidiary company of T-Systems also known as Telekom.<br>     T-Systems MMS supports large corporations and medium-sized companies in their digital transformation. With around 2,200 employees at nine locations they offer dynamic web and application management and ensure the highest software quality, accessibility and IT security with an accredited test center. Their versatility sets them apart from other service providers in their sector. Thanks to their employees’ skills, strong company structures and mature partnerships, they are broad-based and can operate using complex processes. And their success with customers shows that their approach is the right one: successful projects and satisfied customers are the standards by which they measure their expertise and market position. After all, they want to lead the way in designing and reshaping digital worlds.*
 
 <br>
 
-## Why did I started the project?
+## Why did I start the project?
 > *The Team of the IT-Camp couldn't finish the project, because there was not enough time to get this thing to work. This project got my attention and I thought: Why don't You finish this?*
